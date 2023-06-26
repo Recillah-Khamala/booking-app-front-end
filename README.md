@@ -25,7 +25,7 @@
 
 # 📖 [booking-app-front-end ] <a name="about-project"></a>
 
-**[booking-app]** is an application which allows users to to book/rent vehicles for the stipulated amount of time.
+**[booking-app]** is an application which allows users to book/rent vehicles for a stipulated amount of time.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -72,7 +72,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 - Have node installed
-- Have the [rails backend](https://github.com/RichardChileya/booking-app-back-end.git) running
+- Have the [rails backend](https://github.com/Recillah-Khamala/booking-app-back-end.git) running
 
 ### Setup
 
@@ -80,7 +80,7 @@ Clone this repository to your desired folder:
 
 To run and view this application, you will first have to clone a local version of this repository using:
 
-`git clone https://github.com/RichardChileya/booking-app-front-end.git`
+`git clone https://github.com/Recillah-Khamala/booking-app-front-end.git`
 
 After that navigate to the newly created folder:
 
@@ -166,7 +166,7 @@ Example:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/RichardChileya/booking-app-front-end/issues).
+Feel free to check the [issues page](https://github.com/Recillah-Khamala/booking-app-front-end/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -181,7 +181,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 We would like to thank:
-- Microverse for providing for adding this project in the carriculum.
+- Microverse for providing for adding this project to the curriculum.
 - [Murat Korkmaz](https://www.behance.net/gallery/26425031/Vespa-Responsive-Redesign) the creator of the original design.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
