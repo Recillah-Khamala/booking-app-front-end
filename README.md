@@ -72,7 +72,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 - Have node installed
-- Have the [rails backend](https://github.com/Recillah-Khamala/booking-app-back-end.git) running
+- Have the [rails backend](https://github.com/Recillah-Khamala/booking-app-back-end) running
 
 ### Setup
 
